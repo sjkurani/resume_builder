@@ -1,0 +1,56 @@
+﻿
+.mycolor {
+    background :#337ab7;
+}
+
+.navbar {
+  position: relative;
+  min-height: 50px;
+  margin-bottom:0px;
+  border: 1px solid transparent;
+}
+.navbar li a {
+  color: #ffffff;
+}
+#hero {
+background : url('../imgs/05.jpg');
+background-repeat:no-repeat;
+background-size: cover;
+background-position:center;
+}
+
+.thumbnails .row {
+  padding: 10%;
+}
+.thumbnail {
+  background: rgba(51, 51, 51, 0.41);
+}
+.thumbnail a {
+  color: #f1f1f1;
+  font-weight: 600;
+  text-align: left;
+}
+.thumbnail h3 {
+  color: rgb(19, 248, 248);
+}
+
+.thumbnail a:hover {
+  color: rgb(19, 248, 248);
+  text-decoration: none;
+}
+
+.thumbnail ul {
+  list-style: none;
+}
+.navbar-default .navbar-nav>li>a , 
+.navbar-default .navbar-brand {
+  color: #fff;
+  font-weight: 600;
+}
+.dummy {
+  min-height: 10%;
+}
+.footer_text {
+  color: #ffffff;
+  padding: 3%;
+}
